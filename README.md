@@ -1,7 +1,7 @@
 
 
 ## Enumeration
-
+> If you don't have a solution it's probably because you haven't enumerated everything!
 ### Services
 **http**
 ```sh
