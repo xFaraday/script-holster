@@ -41,7 +41,7 @@ smbclient
 ```
 
 ```sh
-nmap
+nmap -A -sV
 ```
 
 
@@ -89,12 +89,20 @@ nmap scripts for ldap:
 
 ## Exploitation
 
+**Searchsploit**
 ```sh
 Using searchsploit:
 searchsploit term
 
 searchsploit -m exploit.py
 ```
+**CVE Research**
+```sh
+Google
+
+dogpile
+```
+
 
 
 ## Once shell is achieved
