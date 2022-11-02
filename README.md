@@ -1,2 +1,2 @@
-## Redteam Automation Pipeline
-> Portsnort -> Autorecon -> searchsploit -> pwncat -> ???  
+## Redteam 
+> Mainly hacking notes...
